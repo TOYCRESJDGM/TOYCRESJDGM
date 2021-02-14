@@ -1,17 +1,14 @@
+
+<div align="center">
 ### Hi there 👋
-
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<!--
-**TOYCRESJDGM/TOYCRESJDGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### You can find me on:
+[Linkedin](https://www.linkedin.com/in/juan-david-gonz%C3%A1lez-mosquera) - [Instagram](https://www.instagram.com/jdgm1999/) - [Gmail](mailto:juandavid00412@gmail.com)
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
+<br>
+<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
