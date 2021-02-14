@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
 # Hello, world! 👋
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
